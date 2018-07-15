@@ -1,4 +1,4 @@
-# Poke
+ # Poke
 A Customizable discord.js bot 
 
 # Installation Requirements
@@ -18,4 +18,4 @@ A Fortnite API key from https://fortnitetracker.com/site-api
 
 5. Now in the command prompt type <b>node bot.js</b> and wait untill the bot is online in the server!
 
-#Enjoy Your Bot
+# Enjoy Your Bot

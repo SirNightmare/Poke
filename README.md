@@ -17,3 +17,5 @@ A Fortnite API key from https://fortnitetracker.com/site-api
 4. Open <b>settings.json.example</b> and fill out all the info. Once done save it and gt rid of the .example file extention so its named <b>settings.json</b>
 
 5. Now in the command prompt type <b>node bot.js</b> and wait untill the bot is online in the server!
+
+#Enjoy Your Bot

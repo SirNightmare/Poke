@@ -1,0 +1,9 @@
+{
+    "token": "Bot Token Here", 
+    "prefix": "Bot prefix of choise here", 
+    "ownerid": "Your Discord ID", 
+    "embedcolor": "HTML Color code here but replace the # with 0x",
+    "allownsfw": "True to enabe NSFW command False for disable",
+    "presencename": "What you want your bots presence to say ",
+    "fortniteapikey": "Fortnite api key here from https://fortnitetracker.com/site-api"
+}
